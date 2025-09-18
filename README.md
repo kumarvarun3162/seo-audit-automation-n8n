@@ -41,3 +41,12 @@ Email report contains:
 - Bulk URL support
 - HTML email reports
 - More deterministic SEO checks
+
+---
+
+## 📊 Workflow Diagram
+
+Here’s the visual workflow built in n8n:
+
+![Workflow Screenshot](assets/workflow_screenshot.png)
+

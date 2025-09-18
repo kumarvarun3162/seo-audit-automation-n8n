@@ -48,5 +48,5 @@ Email report contains:
 
 Here’s the visual workflow built in n8n:
 
-![Workflow Screenshot](assets/workflow_screenshot.png)
+![Workflow Screenshot](Screenshot 2025-09-18 212025.png)
 
